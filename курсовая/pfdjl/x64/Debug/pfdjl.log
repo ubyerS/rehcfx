@@ -1,0 +1,3 @@
+﻿  hbrf.cpp
+C:\Users\karim\Desktop\курсовая\pfdjl\hbrf.cpp(244,1): warning C4305: аргумент: усечение из "int" в "bool"
+  pfdjl.vcxproj -> C:\Users\karim\Desktop\курсовая\x64\Debug\pfdjl.exe
